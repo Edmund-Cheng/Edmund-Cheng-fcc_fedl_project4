@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc_fedl_project4/static/css/main.3f43c4a1.css",
+    "main.js": "/fcc_fedl_project4/static/js/main.65971215.js",
+    "static/js/787.0a2ee33d.chunk.js": "/fcc_fedl_project4/static/js/787.0a2ee33d.chunk.js",
+    "index.html": "/fcc_fedl_project4/index.html",
+    "main.3f43c4a1.css.map": "/fcc_fedl_project4/static/css/main.3f43c4a1.css.map",
+    "main.65971215.js.map": "/fcc_fedl_project4/static/js/main.65971215.js.map",
+    "787.0a2ee33d.chunk.js.map": "/fcc_fedl_project4/static/js/787.0a2ee33d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f43c4a1.css",
+    "static/js/main.65971215.js"
+  ]
+}
